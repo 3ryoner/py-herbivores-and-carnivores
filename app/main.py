@@ -1,6 +1,3 @@
-from xmlrpc.client import boolean
-
-
 class Animal:
     alive = []
 
